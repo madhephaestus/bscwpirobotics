@@ -5,7 +5,6 @@ public class PFrame {
 	
 	private int ind;
 	private double[] dv;
-	
 	public PFrame(int frameIndex, double[] values)
 	{
 		ind = frameIndex;
